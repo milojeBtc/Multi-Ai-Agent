@@ -248,6 +248,11 @@ Contributions are welcome! Please follow these steps:
 - [Loguru](https://github.com/Delgan/loguru) for the logging library.
 - Inspired by collaborative multi-agent system architectures and prompt engineering techniques like Chain-of-Thought (CoT) and ReAct.
 
+## 👥 Contact
+
+- Telegram [@michalstefanow](https://t.me/mylord1_1)
+- Twitter [@michalstefanow](https://x.com/michalstefanow)
+
 ## ©️ License 🪪 
 
 Distributed under the MIT License. See `LICENSE` for more information.
